@@ -1,0 +1,6 @@
+fila_csv,tipus,camp,valor_original,accio
+11,REBUTJAT,unitats,,Unitats no vàlides o <= 0
+12,CORRECCIO,preu_unitari,"12,00",Coma reemplaçada per punt
+13,REBUTJAT,unitats,dos,Unitats no vàlides o <= 0
+16,CORRECCIO,ciutat, Barcelona ,Espais sobrants eliminats
+18,REBUTJAT,ciutat,,Camp obligatori buit

@@ -1,0 +1,24 @@
+=== RESUM EXECUTIU DE VENDES ===
+Data de generació: 2026-10-19 22:30:55
+
+--- Cobertura de dades ---
+Total registres llegits: 19
+Registres vàlids: 16
+Registres rebutjats: 3
+
+--- Indicadors Globals ---
+Total unitats venudes: 134
+Facturació total: 966.6 €
+Preu unitari mitjà: 7.21 €
+Import mitjà per línia: 60.41 €
+
+--- Desglossament per Categoria ---
+  - Papereria: 150.5 €
+  - Accessoris: 317.4 €
+  - Electrònica: 498.7 €
+
+--- Desglossament per Ciutat ---
+  - Barcelona: 551.3 €
+  - Girona: 189.0 €
+  - Tarragona: 201.3 €
+  - Lleida: 25.0 €

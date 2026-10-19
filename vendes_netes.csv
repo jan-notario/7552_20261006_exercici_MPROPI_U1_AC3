@@ -1,0 +1,17 @@
+producte,categoria,ciutat,unitats,preu_unitari,data,import
+Llibreta,Papereria,Barcelona,12,2.5,2026-01-03,30.0
+Bolígraf,Papereria,Girona,30,1.2,2026-01-04,36.0
+Motxilla,Accessoris,Barcelona,3,24.9,2026-01-05,74.7
+Ampolla,Accessoris,Tarragona,8,12.0,2026-01-06,96.0
+Llibreta,Papereria,Lleida,10,2.5,2026-01-07,25.0
+Auriculars,Electrònica,Barcelona,4,39.95,2026-01-08,159.8
+Bolígraf,Papereria,Girona,15,1.2,2026-01-09,18.0
+Motxilla,Accessoris,Tarragona,2,24.9,2026-01-10,49.8
+Carregador,Electrònica,Barcelona,5,18.5,2026-01-11,92.5
+Ampolla,Accessoris,Barcelona,6,12.0,2026-01-13,72.0
+Carregador,Electrònica,Tarragona,3,18.5,2026-01-15,55.5
+Motxilla,Accessoris,Barcelona,1,24.9,2026-01-16,24.9
+Llibreta,Papereria,Barcelona,7,2.5,2026-01-17,17.5
+Bolígraf,Papereria,Girona,20,1.2,2026-01-18,24.0
+Auriculars,Electrònica,Barcelona,2,39.95,2026-01-20,79.9
+Carregador,Electrònica,Girona,6,18.5,2026-01-21,111.0
